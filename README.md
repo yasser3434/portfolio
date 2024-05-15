@@ -1,20 +1,71 @@
-# 💫 About Me:
-Lineup7
+# Data Engineer/Scientist Portfolio
 
+Welcome to my GitHub portfolio! Here you'll find a collection of my projects and work related to data engineering and data science. Each project showcases my skills and experience in various aspects of data handling, analysis, and visualization. Feel free to explore and reach out if you have any questions or feedback!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yasser Sakhraoui) 
+## Table of Contents
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+- [Introduction](#introduction)
+- [Projects](#projects)
+  - [Project 1: Data Pipeline with Apache Airflow](#project-1-data-pipeline-with-apache-airflow)
+  - [Project 2: Predictive Modeling with Machine Learning](#project-2-predictive-modeling-with-machine-learning)
+  - [Project 3: Data Visualization Dashboard](#project-3-data-visualization-dashboard)
+  - [Project 4: Big Data Processing with Spark](#project-4-big-data-processing-with-spark)
+- [Skills](#skills)
+- [Contact](#contact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Introduction
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yasser3434&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I am a passionate data engineer/scientist with a strong background in data processing, analysis, and visualization. I enjoy transforming raw data into actionable insights and building scalable data pipelines. This portfolio showcases my expertise in various tools and technologies, including Python, SQL, Apache Spark, Apache Airflow, and more.
+
+## Projects
+
+### Project 1: Data Pipeline with Apache Airflow
+
+**Description:** This project demonstrates my ability to build and manage data pipelines using Apache Airflow. The pipeline extracts data from multiple sources, transforms it, and loads it into a data warehouse for further analysis.
+
+**Technologies Used:** Python, Apache Airflow, SQL, PostgreSQL
+
+**Repository:** [Data Pipeline with Apache Airflow](https://github.com/yourusername/data-pipeline-airflow)
+
+### Project 2: Predictive Modeling with Machine Learning
+
+**Description:** In this project, I developed a predictive model to forecast sales using machine learning techniques. The model was trained on historical sales data and evaluated for accuracy and performance.
+
+**Technologies Used:** Python, Scikit-learn, Pandas, Matplotlib
+
+**Repository:** [Predictive Modeling with Machine Learning](https://github.com/yourusername/predictive-modeling)
+
+### Project 3: Data Visualization Dashboard
+
+**Description:** This project involves creating an interactive data visualization dashboard to display key performance indicators and trends. The dashboard is built using Plotly and Dash, providing an intuitive interface for data exploration.
+
+**Technologies Used:** Python, Plotly, Dash, Pandas
+
+**Repository:** [Data Visualization Dashboard](https://github.com/yourusername/data-visualization-dashboard)
+
+### Project 4: Big Data Processing with Spark
+
+**Description:** In this project, I utilized Apache Spark to process and analyze large datasets. The project highlights my ability to handle big data challenges and perform distributed data processing.
+
+**Technologies Used:** Python, Apache Spark, Hadoop, AWS
+
+**Repository:** [Big Data Processing with Spark](https://github.com/yourusername/big-data-spark)
+
+## Skills
+
+- **Programming Languages:** Python, SQL, Java
+- **Data Processing:** Apache Spark, Hadoop, Apache Kafka
+- **Data Warehousing:** Amazon Redshift, Google BigQuery, PostgreSQL
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Dash
+- **Workflow Orchestration:** Apache Airflow, Luigi
+- **Cloud Platforms:** AWS, Google Cloud Platform, Azure
+
+## Contact
+
+Feel free to reach out to me via email or connect with me on LinkedIn for any inquiries or collaboration opportunities.
+
+- **Email:** your.email@example.com
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yasser3434&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
