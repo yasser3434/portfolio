@@ -1,3 +1,8 @@
+---
+layout: custom
+title: Home
+---
+
 # Data Engineer/Scientist Portfolio
 
 Welcome to my GitHub portfolio! Here you'll find a collection of my projects and work related to data engineering and data science. Each project showcases my skills and experience in various aspects of data handling, analysis, and visualization. Feel free to explore and reach out if you have any questions or feedback!
@@ -10,8 +15,6 @@ Welcome to my GitHub portfolio! Here you'll find a collection of my projects and
   - [Project 2: Predictive Modeling with Machine Learning](#project-2-predictive-modeling-with-machine-learning)
   - [Project 3: Data Visualization Dashboard](#project-3-data-visualization-dashboard)
   - [Project 4: Big Data Processing with Spark](#project-4-big-data-processing-with-spark)
-- [Skills](#skills)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -50,22 +53,3 @@ I am a passionate data engineer/scientist with a strong background in data proce
 **Technologies Used:** Python, Apache Spark, Hadoop, AWS
 
 **Repository:** [Big Data Processing with Spark](https://github.com/yourusername/big-data-spark)
-
-## Skills
-
-- **Programming Languages:** Python, SQL, Java
-- **Data Processing:** Apache Spark, Hadoop, Apache Kafka
-- **Data Warehousing:** Amazon Redshift, Google BigQuery, PostgreSQL
-- **Machine Learning:** Scikit-learn, TensorFlow, Keras
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Dash
-- **Workflow Orchestration:** Apache Airflow, Luigi
-- **Cloud Platforms:** AWS, Google Cloud Platform, Azure
-
-## Contact
-
-Feel free to reach out to me via email or connect with me on LinkedIn for any inquiries or collaboration opportunities.
-
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-
----
