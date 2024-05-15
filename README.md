@@ -1,8 +1,8 @@
-# [Your Full Name]
+# [Yasser Sakhraoui]
 
 ## Data Engineer / Data Scientist
 
-📍 [Your Location] | 📧 [Your Email] | 💼 [LinkedIn Profile] | 🌐 [Personal Website/Blog]
+📍 [Paris] | 📧 [Your Email] | 💼 [LinkedIn Profile] | 🌐 [Personal Website/Blog]
 
 ---
 
