@@ -1,24 +1,23 @@
-# [Yasser Sakhraoui]
+# Yasser Sakhraoui
 
 ## Data Engineer / Data Scientist
 
-📍 [Paris] | 📧 [Your Email] | 💼 [LinkedIn Profile] | 🌐 [Personal Website/Blog]
-
+📍 Paris | 📧 raouf_sakh@hotmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/yasser-sakhraoui/)
 ---
 
 ### 👋 Introduction
 
-Hello! I'm [Your First Name], a passionate and skilled Data Engineer/Data Scientist with a strong background in [mention any specific areas of expertise - e.g., big data, machine learning, data warehousing, analytics]. I hold a [Your Degree] in [Your Major] from [Your University], and I have [X] years of experience working in diverse industries such as [mention industries - e.g., finance, healthcare, retail]. This portfolio showcases a range of projects demonstrating my skills in data processing, modeling, and analysis, along with my proficiency in tools and technologies like Python, SQL, Hadoop, etc.
+Hello! I'm Yasser, a passionate and skilled Data Engineer/Data Scientist with a strong background in big data and machine learning. I hold a Master 2 in Big data and AI from ESGI, and I have 3 years of experience working in diverse industries such as manufacturing of water pumps, advertising and digital marketing. This portfolio showcases a range of projects demonstrating my skills in data processing, modeling, and analysis, along with my proficiency in tools and technologies like Python, Tensorflow, Scikit-learn, Spark, SQL ...etc.
 
 ---
 
 ### 🛠 Skills
 
-- **Programming Languages:** Python, R, SQL, Java, Scala
-- **Technologies/Tools:** Apache Spark, Hadoop, TensorFlow, AWS, Docker, Kubernetes
-- **Databases:** MySQL, PostgreSQL, MongoDB, Cassandra
-- **Data Analysis Tools:** Pandas, NumPy, Scikit-Learn, Matplotlib, Power BI
-- **Other Skills:** Data Wrangling, Machine Learning, Predictive Modeling, Data Visualization
+- **Programming Languages:** Python, C, Java, Scala, SQL
+- **Technologies/Tools:** Apache Spark, Hadoop, TensorFlow, Scikit-learn, AWS, GCP, Azure, Docker, Kubernetes
+- **Databases:** MySQL, PostgreSQL, MongoDB, PostgreSql
+- **Data Analysis Tools:** Pandas, NumPy, Scikit-Learn, Matplotlib, Power BI, Superset apache
+- **Other Skills:** Machine Learning, Predictive Modeling, Data Visualization
 
 ---
 
