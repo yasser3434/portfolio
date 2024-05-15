@@ -11,10 +11,7 @@ Welcome to my GitHub portfolio! Here you'll find a collection of my projects and
 
 - [Introduction](#introduction)
 - [Projects](#projects)
-  - [Project 1: Data Pipeline with Apache Airflow](#project-1-data-pipeline-with-apache-airflow)
-  - [Project 2: Predictive Modeling with Machine Learning](#project-2-predictive-modeling-with-machine-learning)
-  - [Project 3: Data Visualization Dashboard](#project-3-data-visualization-dashboard)
-  - [Project 4: Big Data Processing with Spark](#project-4-big-data-processing-with-spark)
+  - 
 
 ## Introduction
 
@@ -28,7 +25,7 @@ I am a passionate data engineer/scientist with a strong background in data proce
 
 **Technologies Used:** Python, Apache Airflow, SQL, PostgreSQL
 
-**Repository:** [Data Pipeline with Apache Airflow](https://github.com/yourusername/data-pipeline-airflow)
+**Repository:** [Data Pipeline with Apache Airflow]
 
 ### Project 2: Predictive Modeling with Machine Learning
 
@@ -36,7 +33,7 @@ I am a passionate data engineer/scientist with a strong background in data proce
 
 **Technologies Used:** Python, Scikit-learn, Pandas, Matplotlib
 
-**Repository:** [Predictive Modeling with Machine Learning](https://github.com/yourusername/predictive-modeling)
+**Repository:** [Predictive Modeling with Machine Learning]
 
 ### Project 3: Data Visualization Dashboard
 
@@ -44,7 +41,7 @@ I am a passionate data engineer/scientist with a strong background in data proce
 
 **Technologies Used:** Python, Plotly, Dash, Pandas
 
-**Repository:** [Data Visualization Dashboard](https://github.com/yourusername/data-visualization-dashboard)
+**Repository:** [Data Visualization Dashboard]
 
 ### Project 4: Big Data Processing with Spark
 
@@ -52,4 +49,4 @@ I am a passionate data engineer/scientist with a strong background in data proce
 
 **Technologies Used:** Python, Apache Spark, Hadoop, AWS
 
-**Repository:** [Big Data Processing with Spark](https://github.com/yourusername/big-data-spark)
+**Repository:** [Big Data Processing with Spark]
