@@ -2,3 +2,9 @@ title: Yasser Sakhraoui
 logo: /assets/img/profil_git.jpg
 show_download: true
 theme: jekyll-theme-minimal
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "custom"
