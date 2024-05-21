@@ -27,10 +27,13 @@ Hello! I'm Yasser, a passionate and skilled Data Engineer/Data Scientist with a 
 
 Here are some highlights from my project portfolio:
 
-### [Project Title 1]
-- **Overview:** Brief description of what the project does and its impact.
-- **Technologies Used:** List the tools and technologies used in the project.
-- **[Link to Project Repo or Live Project]**
+### [Query Genius](https://github.com/djibygass/QueryGenius/tree/develop)
+- **Technologies Used:** Flask - Pandas - OpenAI API for accessing the GPT model - AWS SDK (Boto3)
+  
+- **Model FineTuning**: Fine tune an openai model with sql queries.<br>
+- **API Integration**: Utilizes a fine-tuned OpenAI GPT model through an API.<br>
+- **Cloud Storage**: Stores session data and user queries securely in the cloud using AWS services.<br>
+- **Reinforcement Learning**: Implements deep reinforcement learning to refine and improve the model based on user interactions and feedback.<br>
 
 ### [Energy](https://github.com/yasser3434/energy)
 - **Technologies Used:** Flask - Pandas - PyMySQL - Boto3 - PyMuPDF (fitz) - Matplotlib and Seaborn for visualization
