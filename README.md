@@ -2,9 +2,9 @@
 
 ## Data Engineer / Data Scientist
 
-📍 Paris 
-📧 raouf_sakh@hotmail.com 
-💼 [LinkedIn](https://www.linkedin.com/in/yasser-sakhraoui/)
+📍 Paris <br>
+📧 raouf_sakh@hotmail.com <br>
+💼 [LinkedIn](https://www.linkedin.com/in/yasser-sakhraoui/) <br>
 ---
 
 ### 👋 Introduction
