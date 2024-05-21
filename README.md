@@ -84,33 +84,33 @@ This project is a Flask-based web application designed to handle the upload, sto
 
 ### 📚 Education
 
-- **[Master of Artificial Intelligence and Big Data]**  
-  [ESGI] — [2024...in progress]
+- **Master of Artificial Intelligence and Big Data**  
+  ESGI — 2024...in progress
 
-- **[Bachelor of Artificial Intelligence and Big Data]**  
-  [ESGI] — [2022]
+- **Bachelor of Artificial Intelligence and Big Data**  
+  ESGI — 2022
 
-- **[Degree in Mathematics and IT (MIASHS)]**  
-  [Université de Versqilles Saint-Quentin] — [2021]
+- **Degree in Mathematics and IT (MIASHS)**  
+  Université de Versailles Saint-Quentin — 2021
 
-- **[Licence de lettres modernes/ Degree in Modern Letters and French literature]**  
-  [Université de Sorbonne-Nouvelle] — [2018]
+- **Licence de lettres modernes/ Degree in Modern Letters and French literature**  
+  Université de Sorbonne-Nouvelle — 2018
 ---
 
 ### 💼 Experience
 
 ## Data Engineer
-**[Lineup7]** — [2023] - [Today]
+**[Lineup7](https://www.lineup7.fr/)** — 2023 - Today
 - Lineup7 specializes in digital marketing, my work consisted of ensuring the ingestion, aggregation, consolidation and deduplication of multiple data sources.<br><br>
   Tech : Pypsark, AWS Services (S3, Glue, RDS), GCP (Big Query, Data Transfer), Visualization (Apache Superset)
 
 ## Data Scientist
-**[Qwarry]** — [2021] - [2023]
+**[Qwarry](https://www.qwarry.com/)** — 2021 - 2023
 - Qwarry offers a cookieless advertising solution by analyzing the content of the web page using an AI model.<br><br>
   Tech : Tensorflow, SpaCy, Pandas, Numpy, Matplotlib, AWS Services (SageMaker, SageMaker Endpoints, S3, Lambda functions)
 
 ## Data Manager
-**[Wilo France]** — [2020] - [2021]
+**[Wilo France](https://wilo.com/fr/fr/)** — 2020 - 2021
 - Wilo has specialized in the manufacture of water pumps for years and therefore has many different data sources that it must manage, transform and centralize.<br><br>
   Tech : Microsoft SQL server, Microsoft Dynamics, PowerBI, Pandas
 
