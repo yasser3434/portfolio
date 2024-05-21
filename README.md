@@ -20,7 +20,6 @@ Hello! I'm Yasser, a passionate and skilled Data Engineer/Data Scientist with a 
 - **Engineering Techs** : Apache Spark, Hadoop, TensorFlow, Scikit-learn, SpaCy, Docker, Kubernetes.
 - **Databases:** MySQL, PostgreSQL, MongoDB, PostgreSql
 - **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Power BI, Superset apache
-- **Other Skills:** Machine Learning, Predictive Modeling, Data Visualization
 
 ---
 
@@ -28,17 +27,21 @@ Hello! I'm Yasser, a passionate and skilled Data Engineer/Data Scientist with a 
 
 Here are some highlights from my project portfolio:
 
-### [Query Genius](https://github.com/djibygass/QueryGenius/tree/develop) ... in progress
-- **Technologies Used:** Flask - Pandas - OpenAI API for accessing the GPT model - AWS SDK (Boto3)
+### [Query Genius](https://github.com/djibygass/QueryGenius) ... in progress
+- **Overview:**<br>
+This project is a Flask-based web application designed to handle the upload, storage, and processing of PDF documents along with other file types. The application provides functionalities such as viewing uploaded files by company category, running analyses on these files, and integrating the results with an AWS RDS database. The goal is to automate the extraction of data from PDF invoices for various energy companies and to visualize this data effectively.<br>
+
+- **Technologies Used:** AWS Services - Boto3 - Flask - Pandas - OpenAI API for accessing the GPT model
 
 - **Overview:**<br>
   **Model FineTuning**: Fine tune an openai model with sql queries.<br>
   **API Integration**: Utilizes a fine-tuned OpenAI GPT model through an API.<br>
   **Cloud Storage**: Stores session data and user queries securely in the cloud using AWS services.<br>
   **Reinforcement Learning**: Implements deep reinforcement learning to refine and improve the model based on user interactions and feedback.<br>
+  **CI/CD Integration**
 
 ### [Energy](https://github.com/yasser3434/energy)
-- **Technologies Used:** Flask - Pandas - PyMySQL - Boto3 - PyMuPDF (fitz) - Matplotlib and Seaborn for visualization
+- **Technologies Used:** Boto3 - RDS - S3 - Flask - Pandas - PyMySQL - PyMuPDF (fitz) - Matplotlib and Seaborn for visualization
 
 - **Overview:**<br>
   **File Upload**: Support PDFs.<br> 
@@ -46,6 +49,17 @@ Here are some highlights from my project portfolio:
   **Data Extraction**: Extracts specific details from PDF invoices such as client information and billing details.<br>
   **Data Visualization**: Provides visual feedback on the data extracted from invoices.<br>
   **Database Integration**: Stores extracted data in an AWS RDS MySQL database.
+
+### [Virtual Coach](https://github.com/djibygass/QueryGenius/tree/develop)
+- **Technologies Used:** AWS Services - Boto3 - Flask - Pandas - OpenAI API for accessing the GPT model
+
+- **Overview:**<br>
+  This project is a web application designed to monitor and assist users during their workout sessions, specifically focusing on exercises like squats and push-ups. Using computer vision technologies and pose estimation, the app provides real-time feedback on the user's form and count repetitions. The backend is built with Flask, and the pose detection utilizes OpenCV and Mediapipe.<br>
+  ## Features<br>
+  **Real-time Exercise Monitoring**: Tracks user movements through a webcam feed to count exercise repetitions and provide feedback on form correctness.<br>
+  **Exercise Selection**: Allows users to select the type of exercise they wish to perform.<br>
+  **Dynamic Feedback**: Visual feedback through the webcam feed indicating correct or incorrect posture during exercises.<br>
+
 
 ---
 
