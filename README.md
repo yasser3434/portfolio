@@ -36,7 +36,7 @@ Here are some highlights from my project portfolio:
 - **Technologies Used:** Flask - Pandas - PyMySQL - Boto3 - PyMuPDF (fitz) - Matplotlib and Seaborn for visualization
 
 - **Overview:**
-  **File Upload**: Support PDFs.
+  **File Upload**: Support PDFs. \n
   **File Management**: Files are categorized by company and stored accordingly.
   **Data Extraction**: Extracts specific details from PDF invoices such as client information and billing details.
   **Data Visualization**: Provides visual feedback on the data extracted from invoices.
