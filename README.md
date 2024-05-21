@@ -32,10 +32,11 @@ Here are some highlights from my project portfolio:
 - **Technologies Used:** List the tools and technologies used in the project.
 - **[Link to Project Repo or Live Project]**
 
-#### [Project Title 2]
+#### Energy
 - **Overview:** Brief description of what the project does and its impact.
 - **Technologies Used:** List the tools and technologies used in the project.
-- **[Link to Project Repo or Live Project]**
+- **[Project Repository](https://github.com/yasser3434/energy)**
+
 
 (Add more projects as needed.)
 
@@ -61,14 +62,4 @@ Here are some highlights from my project portfolio:
 **[Company Name]** — [Start Date] - [End Date]
 - [Brief description of your responsibilities and achievements.]
 
-(Add more as necessary)
 
----
-
-### 🗂 Certifications
-
-- **Certified Data Scientist** — [Certifying Authority] — [Year]
-- **Certified Big Data Professional** — [Certifying Authority] — [Year]
-- (Include others as necessary)
-
----
