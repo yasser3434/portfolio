@@ -31,10 +31,12 @@ This project is a web application designed to convert natural language text into
 
 - **Technologies Used:** AWS Services - Boto3 - Flask - Pandas - OpenAI API for accessing the GPT model
 
-  **Model FineTuning**: Fine tune an openai model with sql queries.<br>
+  **Model FineTuning**: Fine-Tuning GPT-3.5 on Custom Dataset with sql queries.<br>
   **API Integration**: Utilizes a fine-tuned OpenAI GPT model through an API.<br>
   **Cloud Storage**: Stores session data and user queries securely in the cloud using AWS services.<br>
   **Reinforcement Learning**: Implements deep reinforcement learning to refine and improve the model based on user interactions and feedback.<br>
+  **Generative Prompt Engineering**: Evaluates prompt results with zero shot and few shot pormpting.
+  **Retrieval Augmented Generation**: evaluates performance with a RAG
   **CI/CD Integration**
 
 
