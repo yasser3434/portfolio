@@ -33,13 +33,14 @@ Here are some highlights from my project portfolio:
 - **[Link to Project Repo or Live Project]**
 
 #### [Energy](https://github.com/yasser3434/energy)
-- **Overview:**
-- **File Upload**: Support PDFs.
-- **File Management**: Files are categorized by company and stored accordingly.
-- **Data Extraction**: Extracts specific details from PDF invoices such as client information and billing details.
-- **Data Visualization**: Provides visual feedback on the data extracted from invoices.
-- **Database Integration**: Stores extracted data in an AWS RDS MySQL database.
 - **Technologies Used:** Flask - Pandas - PyMySQL - Boto3 - PyMuPDF (fitz) - Matplotlib and Seaborn for visualization
+
+- **Overview:**
+  **File Upload**: Support PDFs.
+  **File Management**: Files are categorized by company and stored accordingly.
+  **Data Extraction**: Extracts specific details from PDF invoices such as client information and billing details.
+  **Data Visualization**: Provides visual feedback on the data extracted from invoices.
+  **Database Integration**: Stores extracted data in an AWS RDS MySQL database.
 
 ---
 
