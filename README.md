@@ -27,12 +27,12 @@ Hello! I'm Yasser, a passionate and skilled Data Engineer/Data Scientist with a 
 
 Here are some highlights from my project portfolio:
 
-#### [Project Title 1]
+### [Project Title 1]
 - **Overview:** Brief description of what the project does and its impact.
 - **Technologies Used:** List the tools and technologies used in the project.
 - **[Link to Project Repo or Live Project]**
 
-#### [Energy](https://github.com/yasser3434/energy)
+### [Energy](https://github.com/yasser3434/energy)
 - **Technologies Used:** Flask - Pandas - PyMySQL - Boto3 - PyMuPDF (fitz) - Matplotlib and Seaborn for visualization
 
 - **Overview:**<br>
