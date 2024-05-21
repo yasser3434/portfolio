@@ -58,7 +58,7 @@ This project is a Flask-based web application designed to handle the upload, sto
 - **Overview:**<br>
   This project leverages ZenML, an MLOps framework to build, deploy, and monitor machine learning models.<br>
 
-- **Technologies Used:** ZenML - MLflow - FastAPI - scikit-learn - joblib - pandas - uvicorn
+- **Technologies Used:** ZenML - MLflow - FastAPI - Tensorflow - scikit-learn - joblib - pandas - uvicorn
   
   **Automated ML Pipeline**: End-to-end automation from data loading to model deployment.<br>
   **Model Versioning**: Integrates with MLflow for model tracking and versioning.<br>
