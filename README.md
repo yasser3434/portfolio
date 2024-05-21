@@ -28,7 +28,7 @@ Hello! I'm Yasser, a passionate and skilled Data Engineer/Data Scientist with a 
 
 Here are some highlights from my project portfolio:
 
-### [Query Genius](https://github.com/djibygass/QueryGenius/tree/develop)
+### [Query Genius](https://github.com/djibygass/QueryGenius/tree/develop) ... in progress
 - **Technologies Used:** Flask - Pandas - OpenAI API for accessing the GPT model - AWS SDK (Boto3)
 
 - **Overview:**<br>
