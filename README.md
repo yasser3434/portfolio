@@ -46,7 +46,7 @@ This project is a Flask-based web application designed to handle the upload, sto
 
 - **Technologies Used:** Boto3 - RDS - S3 - Flask - Pandas - PyMySQL - PyMuPDF (fitz) - Matplotlib and Seaborn for visualization
 
-  **File Upload**: Support PDFs.<br> 
+  **File Upload**: Support PDFs.<br>
   **File Management**: Files are categorized by company and stored accordingly.<br>
   **Data Extraction**: Extracts specific details from PDF invoices such as client information and billing details.<br>
   **Data Visualization**: Provides visual feedback on the data extracted from invoices.<br>
@@ -72,7 +72,7 @@ This project is a Flask-based web application designed to handle the upload, sto
 - **Overview:**<br>
   This project is a web application designed to monitor and assist users during their workout sessions, specifically focusing on exercises like squats and push-ups.<br>
 
-- **Technologies Used:** Flask - OpenCV - NumPy - Mediapipe
+- **Technologies Used:** AWS S3 - Flask - OpenCV - NumPy - Mediapipe
   
   **Real-time Exercise Monitoring**: Tracks user movements through a webcam feed to count exercise repetitions and provide feedback on form correctness.<br>
   **Exercise Selection**: Allows users to select the type of exercise they wish to perform.<br>
@@ -84,22 +84,33 @@ This project is a Flask-based web application designed to handle the upload, sto
 
 ### 📚 Education
 
-- **[Your Degree, e.g., Master of Science in Data Science]**  
-  [Your University] — [Year Graduated]
+- **[Master of Artificial Intelligence and Big Data]**  
+  [ESGI] — [2024...in progress]
 
-- **[Other Degrees or Relevant Certifications]**  
-  [Institution Name] — [Year Graduated/Certified]
+- **[Bachelor of Artificial Intelligence and Big Data]**  
+  [ESGI] — [2022]
 
+- **[Degree in Mathematics and IT (MIASHS)]**  
+  [Université de Versqilles Saint-Quentin] — [2021]
+
+- **[Licence de lettres modernes/ Degree in Modern Letters and French literature]**  
+  [Université de Sorbonne-Nouvelle] — [2018]
 ---
 
 ### 💼 Experience
 
-#### [Your Last Job Title]
-**[Company Name]** — [Start Date] - [End Date]
-- [Brief description of your responsibilities and achievements.]
+#### [Data Engineer]
+**[Lineup7]** — [2023] - [Today]
+- Lineup7 specializes in digital marketing, my work consisted of ensuring the ingestion, aggregation, consolidation and deduplication of multiple data sources.<br>
+  Tech : Pypsark, AWS Services (S3, Glue, RDS), GCP (Big Query, Data Transfer), Visualization (Apache Superset)
 
-#### [Previous Job Title]
-**[Company Name]** — [Start Date] - [End Date]
-- [Brief description of your responsibilities and achievements.]
+#### [Data Scientist]
+**[Qwarry]** — [2021] - [2023]
+- Qwarry offers a cookieless advertising solution by analyzing the content of the web page using an AI model.<br>
+  Tech : Tensorflow, SpaCy, Pandas, Numpy, Matplotlib, AWS Services (SageMaker, SageMaker Endpoints, S3, Lambda functions)
 
+#### [Data Manager]
+**[Wilo France]** — [2020] - [2021]
+- Wilo has specialized in the manufacture of water pumps for years and therefore has many different data sources that it must manage, transform and centralize.
+  Tech : Microsoft SQL server, Microsoft Dynamics, PowerBI, Pandas
 
