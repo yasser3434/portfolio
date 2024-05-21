@@ -1,4 +1,4 @@
-# Data Engineer / Data Scientist
+# Data Engineer / Scientist
 
 📍 Paris <br>
 📧 raouf_sakh@hotmail.com <br>
