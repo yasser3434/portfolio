@@ -101,16 +101,16 @@ This project is a Flask-based web application designed to handle the upload, sto
 
 #### [Data Engineer]
 **[Lineup7]** — [2023] - [Today]
-- Lineup7 specializes in digital marketing, my work consisted of ensuring the ingestion, aggregation, consolidation and deduplication of multiple data sources.<br>
+- Lineup7 specializes in digital marketing, my work consisted of ensuring the ingestion, aggregation, consolidation and deduplication of multiple data sources.<br><br>
   Tech : Pypsark, AWS Services (S3, Glue, RDS), GCP (Big Query, Data Transfer), Visualization (Apache Superset)
 
 #### [Data Scientist]
 **[Qwarry]** — [2021] - [2023]
-- Qwarry offers a cookieless advertising solution by analyzing the content of the web page using an AI model.<br>
+- Qwarry offers a cookieless advertising solution by analyzing the content of the web page using an AI model.<br><br>
   Tech : Tensorflow, SpaCy, Pandas, Numpy, Matplotlib, AWS Services (SageMaker, SageMaker Endpoints, S3, Lambda functions)
 
 #### [Data Manager]
 **[Wilo France]** — [2020] - [2021]
-- Wilo has specialized in the manufacture of water pumps for years and therefore has many different data sources that it must manage, transform and centralize.
+- Wilo has specialized in the manufacture of water pumps for years and therefore has many different data sources that it must manage, transform and centralize.<br><br>
   Tech : Microsoft SQL server, Microsoft Dynamics, PowerBI, Pandas
 
