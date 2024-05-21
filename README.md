@@ -32,7 +32,7 @@ Here are some highlights from my project portfolio:
 - **Technologies Used:** List the tools and technologies used in the project.
 - **[Link to Project Repo or Live Project]**
 
-#### Energy
+#### [Energy](https://github.com/yasser3434/energy)
 - **Overview:** Brief description of what the project does and its impact.
 - **Technologies Used:** List the tools and technologies used in the project.
 - **[Project Repository](https://github.com/yasser3434/energy)**
