@@ -1,6 +1,4 @@
-# Yasser Sakhraoui
-
-## Data Engineer / Data Scientist
+# Data Engineer / Data Scientist
 
 📍 Paris <br>
 📧 raouf_sakh@hotmail.com <br>
