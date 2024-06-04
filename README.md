@@ -13,7 +13,7 @@ Hello! I'm Yasser, a passionate and skilled Data Engineer/Data Scientist with a 
 
 ### 🛠 Skills
 
-- **Programming Languages:** Python, Scala, SQL
+- **Programming Languages:** Python, Scala, Spark
 - **CLOUD:** AWS, GCP and Azure (academic projects)
 - **Engineering Techs** : Apache Spark, Hadoop, TensorFlow, Scikit-learn, SpaCy, Docker, Kubernetes.
 - **Databases:** MySQL, PostgreSQL, MongoDB
