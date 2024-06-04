@@ -13,8 +13,8 @@ Hello! I'm Yasser, a passionate and skilled Data Engineer/Data Scientist with a 
 
 ### 🛠 Skills
 
-- **Programming Languages:** Python, C, Java, Scala, SQL
-- **CLOUD:** AWS, GCP, Azure
+- **Programming Languages:** Python, Scala, SQL
+- **CLOUD:** AWS (niveau confirmé), GCP et Azure (academic projects)
 - **Engineering Techs** : Apache Spark, Hadoop, TensorFlow, Scikit-learn, SpaCy, Docker, Kubernetes.
 - **Databases:** MySQL, PostgreSQL, MongoDB, PostgreSql
 - **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Power BI, Superset apache
@@ -27,10 +27,8 @@ Here are some highlights from my project portfolio:
 
 ### [Query Genius](https://github.com/djibygass/QueryGenius) ... in progress
 - **Overview:**<br>
-This project is a web application designed to convert natural language text into SQL queries using a fine-tuned OpenAI GPT model.<br>
 
-- **Technologies Used:** AWS Services - Boto3 - Flask - Pandas - OpenAI API for accessing the GPT model
-
+This project is a web application designed to convert natural language text into SQL queries using a fine-tuned OpenAI GPT model. Here are the most important steps of the project :<br>
   **Model FineTuning**: Fine-Tuning GPT-3.5 on Custom Dataset with sql queries.<br>
   **API Integration**: Utilizes a fine-tuned OpenAI GPT model through an API.<br>
   **Cloud Storage**: Stores session data and user queries securely in the cloud using AWS services.<br>
@@ -39,12 +37,12 @@ This project is a web application designed to convert natural language text into
   **Retrieval Augmented Generation**: evaluates performance with a RAG
   **CI/CD Integration**
 
+  - **Technologies Used:** AWS Services - Boto3 - Flask - Pandas - OpenAI API for accessing the GPT model
+
 
 ### [Energy Tracker](https://github.com/yasser3434/energy)
 - **Overview:**<br>
-This project is a Flask-based web application designed to handle the upload, storage, and processing of PDF documents.<br>
-
-- **Technologies Used:** Boto3 - RDS - S3 - Flask - Pandas - PyMySQL - PyMuPDF (fitz) - Matplotlib and Seaborn for visualization
+This project is a Flask-based web application designed to handle the upload, storage, and processing of PDF documents. Here are the most important steps of the project : <br>
 
   **File Upload**: Support PDFs.<br>
   **File Management**: Files are categorized by company and stored accordingly.<br>
@@ -52,13 +50,11 @@ This project is a Flask-based web application designed to handle the upload, sto
   **Data Visualization**: Provides visual feedback on the data extracted from invoices.<br>
   **Database Integration**: Stores extracted data in an AWS RDS MySQL database.
 
-
+- **Technologies Used:** AWS Services (Boto3 - RDS - S3) - Flask - Pandas - PyMySQL - PyMuPDF (fitz) - Matplotlib and Seaborn for visualization
 
 ### [MLOps Pipeline for ML Model Serving](https://github.com/ICollaps/ZenML-project)
 - **Overview:**<br>
-  This project leverages ZenML, an MLOps framework to build, deploy, and monitor machine learning models.<br>
-
-- **Technologies Used:** ZenML - MLflow - FastAPI - Tensorflow - scikit-learn - joblib - pandas - uvicorn
+  This project leverages ZenML, an MLOps framework to build, deploy, and monitor machine learning models. Here are the most important steps of the project : <br>
   
   **Automated ML Pipeline**: End-to-end automation from data loading to model deployment.<br>
   **Model Versioning**: Integrates with MLflow for model tracking and versioning.<br>
@@ -66,35 +62,34 @@ This project is a Flask-based web application designed to handle the upload, sto
   **Continuous Monitoring**: Monitors the model's performance and updates the model automatically if necessary.<br>
   **Discord Notifications**: Sends alerts and notifications via Discord based on pipeline events and model performance.<br>
 
-
+- **Technologies Used:** ZenML - MLflow - FastAPI - Tensorflow - scikit-learn - joblib - pandas - uvicorn
+- 
   
 ### [Virtual Coach](https://github.com/djibygass/virtual_coach_gp)
 - **Overview:**<br>
-  This project is a web application designed to monitor and assist users during their workout sessions, specifically focusing on exercises like squats and push-ups.<br>
-
-- **Technologies Used:** AWS S3 - Flask - OpenCV - NumPy - Mediapipe
+  This project is a web application designed to monitor and assist users during their workout sessions, specifically focusing on exercises like squats and push-ups. Here are the most important steps of the project : <br>
   
   **Real-time Exercise Monitoring**: Tracks user movements through a webcam feed to count exercise repetitions and provide feedback on form correctness.<br>
   **Exercise Selection**: Allows users to select the type of exercise they wish to perform.<br>
   **Dynamic Feedback**: Visual feedback through the webcam feed indicating correct or incorrect posture during exercises.<br>
   
-
+- **Technologies Used:** AWS S3 - Flask - OpenCV - NumPy - Mediapipe
 
 ---
 
 ### 📚 Education
 
 - **Master of Artificial Intelligence and Big Data**  
-  ESGI — 2024...in progress
+  ESGI 2022 — 2024...in progress
 
 - **Bachelor of Artificial Intelligence and Big Data**  
-  ESGI — 2022
+  ESGI 2021 — 2022
 
 - **Degree in Mathematics and IT (MIASHS)**  
-  Université de Versailles Saint-Quentin — 2021
+  Université de Versailles Saint-Quentin 2018 — 2021
 
 - **Licence de lettres modernes/ Degree in Modern Letters and French literature**  
-  Université de Sorbonne-Nouvelle — 2018
+  Université de Sorbonne-Nouvelle 2015 — 2018
 ---
 
 ### 💼 Experience
@@ -107,7 +102,7 @@ This project is a Flask-based web application designed to handle the upload, sto
 ## Data Scientist
 **[Qwarry](https://www.qwarry.com/)** — 2021 - 2023
 - Qwarry offers a cookieless advertising solution by analyzing the content of the web page using an AI model.<br><br>
-  Tech : Tensorflow, SpaCy, Pandas, Numpy, Matplotlib, AWS Services (SageMaker, SageMaker Endpoints, S3, Lambda functions)
+  Tech : Tensorflow, LLMs, SpaCy, Pandas, Numpy, Matplotlib, AWS Services (SageMaker, SageMaker Endpoints, S3, Lambda functions)
 
 ## Data Manager
 **[Wilo France](https://wilo.com/fr/fr/)** — 2020 - 2021
