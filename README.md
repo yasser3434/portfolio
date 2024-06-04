@@ -14,9 +14,9 @@ Hello! I'm Yasser, a passionate and skilled Data Engineer/Data Scientist with a 
 ### 🛠 Skills
 
 - **Programming Languages:** Python, Scala, SQL
-- **CLOUD:** AWS, GCP et Azure (academic projects)
+- **CLOUD:** AWS, GCP and Azure (academic projects)
 - **Engineering Techs** : Apache Spark, Hadoop, TensorFlow, Scikit-learn, SpaCy, Docker, Kubernetes.
-- **Databases:** MySQL, PostgreSQL, MongoDB, PostgreSql
+- **Databases:** MySQL, PostgreSQL, MongoDB
 - **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Power BI, Superset apache
 
 ---
@@ -95,17 +95,22 @@ This project is a Flask-based web application designed to handle the upload, sto
 ### 💼 Experience
 
 ## Data Engineer
-**[Lineup7](https://www.lineup7.fr/)** — 2023 - Today
+**[Lineup7](https://www.lineup7.fr/)** — 2023 - Today <br>
+8 Bd du Montparnasse, 75015 Paris <br>
 - Lineup7 specializes in digital marketing, my work consisted of ensuring the ingestion, aggregation, consolidation and deduplication of multiple data sources.<br><br>
   Tech : Pypsark, AWS Services (S3, Glue, RDS), GCP (Big Query, Data Transfer), Visualization (Apache Superset)
 
 ## Data Scientist
-**[Qwarry](https://www.qwarry.com/)** — 2021 - 2023
+**[Qwarry](https://www.qwarry.com/)** — 2021 - 2023 <br>
+Paris 02 Bourse, France <br>
+
 - Qwarry offers a cookieless advertising solution by analyzing the content of the web page using an AI model.<br><br>
-  Tech : Tensorflow, LLMs, SpaCy, Pandas, Numpy, Matplotlib, AWS Services (SageMaker, SageMaker Endpoints, S3, Lambda functions)
+  Tech : Tensorflow, NLP, LLMs, SpaCy, Pandas, Numpy, Matplotlib, AWS Services (SageMaker, SageMaker Endpoints, S3, Lambda functions)
 
 ## Data Manager
-**[Wilo France](https://wilo.com/fr/fr/)** — 2020 - 2021
+**[Wilo France](https://wilo.com/fr/fr/)** — 2020 - 2021 <br>
+70-74 Rue Ambroise Croizat, 93200 Saint-Denis <br>
+
 - Wilo has specialized in the manufacture of water pumps for years and therefore has many different data sources that it must manage, transform and centralize.<br><br>
   Tech : Microsoft SQL server, Microsoft Dynamics, PowerBI, Pandas
 
