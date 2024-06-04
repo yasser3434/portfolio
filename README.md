@@ -31,13 +31,13 @@ Here are some highlights from my project portfolio:
 This project is a web application designed to convert natural language text into SQL queries using a fine-tuned OpenAI GPT model. Here are the most important steps of the project :<br>
   **Model FineTuning**: Fine-Tuning GPT-3.5 on Custom Dataset with sql queries.<br>
   **API Integration**: Utilizes a fine-tuned OpenAI GPT model through an API.<br>
-  **Cloud Storage**: Stores session data and user queries securely in the cloud using AWS services.<br>
+  **Cloud Storage**: Stores session data and user queries securely in the cloud using AWS.<br>
   **Reinforcement Learning**: Implements deep reinforcement learning to refine and improve the model based on user interactions and feedback.<br>
   **Generative Prompt Engineering**: Evaluates prompt results with zero shot and few shot pormpting.
   **Retrieval Augmented Generation**: evaluates performance with a RAG
   **CI/CD Integration**
 
-  - **Technologies Used:** AWS Services - Boto3 - Flask - Pandas - OpenAI API for accessing the GPT model
+  - **Technologies Used:** AWS - Boto3 - Flask - Pandas - OpenAI API for accessing the GPT model
 
 
 ### [Energy Tracker](https://github.com/yasser3434/energy)
@@ -50,7 +50,7 @@ This project is a Flask-based web application designed to handle the upload, sto
   **Data Visualization**: Provides visual feedback on the data extracted from invoices.<br>
   **Database Integration**: Stores extracted data in an AWS RDS MySQL database.
 
-- **Technologies Used:** AWS Services (Boto3 - RDS - S3) - Flask - Pandas - PyMySQL - PyMuPDF (fitz) - Matplotlib and Seaborn for visualization
+- **Technologies Used:** AWS (Boto3 - RDS - S3) - Flask - Pandas - PyMySQL - PyMuPDF (fitz) - Matplotlib and Seaborn for visualization
 
 ### [MLOps Pipeline for ML Model Serving](https://github.com/ICollaps/ZenML-project)
 - **Overview:**<br>
@@ -98,14 +98,14 @@ This project is a Flask-based web application designed to handle the upload, sto
 **[Lineup7](https://www.lineup7.fr/)** — 2023 - Today <br>
 8 Bd du Montparnasse, 75015 Paris <br>
 - Lineup7 specializes in digital marketing, my work consisted of ensuring the ingestion, aggregation, consolidation and deduplication of multiple data sources.<br><br>
-  Tech : Pypsark, AWS Services (S3, Glue, RDS), GCP (Big Query, Data Transfer), Visualization (Apache Superset)
+  Tech : Pypsark, AWS (S3, Glue, RDS), GCP (Big Query, Data Transfer), Visualization (Apache Superset)
 
 ## Data Scientist
 **[Qwarry](https://www.qwarry.com/)** — 2021 - 2023 <br>
 Paris 02 Bourse, France <br>
 
 - Qwarry offers a cookieless advertising solution by analyzing the content of the web page using an AI model.<br><br>
-  Tech : Tensorflow, NLP, LLMs, SpaCy, Pandas, Numpy, Matplotlib, AWS Services (SageMaker, SageMaker Endpoints, S3, Lambda functions)
+  Tech : Tensorflow, NLP, LLMs, SpaCy, Pandas, Numpy, Matplotlib, AWS (SageMaker, SageMaker Endpoints, S3, Lambda functions)
 
 ## Data Manager
 **[Wilo France](https://wilo.com/fr/fr/)** — 2020 - 2021 <br>
