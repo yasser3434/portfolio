@@ -15,7 +15,7 @@ Hello! I'm Yasser, a passionate and skilled Data Engineer/Data Scientist with a 
 
 - **Programming Languages:** Python, Scala, Spark
 - **CLOUD:** AWS, GCP and Azure (academic projects)
-- **Engineering Techs** : Apache Spark, Hadoop, TensorFlow, Scikit-learn, SpaCy, Docker, Kubernetes.
+- **Engineering Techs** : Apache Airflow, Apache Spark, Docker, Docker Compose, Hadoop, Kubernetes, Redis, S﻿paCy,  Scikit-learn, TensorFlow, Terraform.
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Power BI, Superset apache
 
@@ -62,7 +62,7 @@ This project is a Flask-based web application designed to handle the upload, sto
   **Data Visualization**: Provides visual feedback on the data extracted from invoices.<br>
   **Database Integration**: Stores extracted data in an AWS RDS MySQL database.
 
-- **Technologies Used:** AWS (Boto3 - RDS - S3) - Flask - Pandas - PyMySQL - PyMuPDF (fitz) - Matplotlib and Seaborn for visualization
+- **Technologies Used:** AWS (Boto3 - RDS - S3) - Flask - Matplotlib and Seaborn for visualization - Pandas - PyMySQL - PyMuPDF (fitz)
 
 ### [MLOps Pipeline for ML Model Serving](https://github.com/ICollaps/ZenML-project)
 - **Overview:**<br>
@@ -74,7 +74,7 @@ This project is a Flask-based web application designed to handle the upload, sto
   **Continuous Monitoring**: Monitors the model's performance and updates the model automatically if necessary.<br>
   **Discord Notifications**: Sends alerts and notifications via Discord based on pipeline events and model performance.<br>
 
-- **Technologies Used:** ZenML - MLflow - FastAPI - Tensorflow - scikit-learn - joblib - pandas - uvicorn
+- **Technologies Used:** FastAPI - joblib - MLflow -  pandas  - scikit-learn - Tensorflow - uvicorn - ZenML
 - 
   
 ### [Virtual Coach](https://github.com/djibygass/virtual_coach_gp)
