@@ -32,12 +32,24 @@ This project is a web application designed to convert natural language text into
   **Model FineTuning**: Fine-Tuning GPT-3.5 on Custom Dataset with sql queries.<br>
   **API Integration**: Utilizes a fine-tuned OpenAI GPT model through an API.<br>
   **Cloud Storage**: Stores session data and user queries securely in the cloud using AWS.<br>
-  **Reinforcement Learning**: Implements deep reinforcement learning to refine and improve the model based on user interactions and feedback.<br>
   **Generative Prompt Engineering**: Evaluates prompt results with zero shot and few shot pormpting.
   **Retrieval Augmented Generation**: evaluates performance with a RAG
   **CI/CD Integration**
 
-  - **Technologies Used:** AWS - Boto3 - Flask - Pandas - OpenAI API for accessing the GPT model
+  - **Technologies Used:** Terraform - Apache Airflow - AWS (S3, RDS, boto3) - Docker - Docker Compose - Flask - OpenAI API for accessing the GPT model - Pandas - Streamlit
+
+
+### [ML Orchesration]([https://github.com/yasser3434/energy](https://github.com/yasser3434/orchestration_ml))
+- **Overview:**<br>
+This project contains an end-to-end machine learning workflow using Apache Airflow for orchestration, FastAPI for model predictions, and Streamlit for a user interface. The setup includes model training, evaluation, and deployment with AWS S3 for model storage and Redis for caching predictions. Here are the most important steps of the project : <br>
+
+  **Apache Airflow**: For orchestrating the ML workflow.
+  **FastAPI**: For serving model predictions.
+  **Streamlit**: For creating a user-friendly interface to input data and view predictions.
+  **AWS S3**: For storing trained models and accuracy metrics.
+  **Redis**: For caching predictions to improve performance.
+
+- **Technologies Used:** Apache Airflow - AWS (S3, boto3) - Docker - Docker Compose - FastAPI - joblib - Pandas - Redis - Scikit-learn - Streamlit 
 
 
 ### [Energy Tracker](https://github.com/yasser3434/energy)
